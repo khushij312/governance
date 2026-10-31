@@ -1,7 +1,6 @@
 [team]
 name = "ScottyLabs AI"
 slug = "slai"
-members = ["khushij"]
 # leads = ["krishsaxena"]
 # members = [
 #     "jc-965",
@@ -10,6 +9,7 @@ members = ["khushij"]
 #     "enkrypt7",
 #     "sayevikk",
 #     "zeyuyaoy",
+#     "khushij",
 #     "xboxbedrock",
 # ]
 
